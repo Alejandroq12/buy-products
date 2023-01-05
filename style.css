@@ -5,9 +5,12 @@
     --desaturated-blue: hsl(224, 23%, 55%);
     --dark-blue: hsl(223, 47%, 23%);
 }
+ body {
+    background-image: url(./images/pattern-background-desktop.svg);
+ }
 
 .card {
     width: 450px;
-    background-color: var(--dark-blue);
+    background-color: white;
 
 }
