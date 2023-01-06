@@ -1,5 +1,5 @@
 :root {
-    --pale-blue: hsl(225, 100%, 64%);
+    --pale-blue: hsl(225, 100%, 84%);
     --bright-blue: hsl(245, 75%, 52%);
     --very-pale-blue: hsl(225, 100%, 98%);
     --desaturated-blue: hsl(224, 23%, 55%);
@@ -7,10 +7,14 @@
 }
  body {
     background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--pale-blue);
  }
 
 .card {
     width: 450px;
     background-color: white;
+    color: var(--desaturated-blue);
 
 }
