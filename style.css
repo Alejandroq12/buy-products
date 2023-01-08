@@ -27,3 +27,7 @@
 .hero-image {
     width: 100%;
 }
+
+.container {
+    padding: 20px;
+}
