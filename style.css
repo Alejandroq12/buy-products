@@ -16,9 +16,10 @@
     width: 450px;
     background-color: white;
     color: var(--desaturated-blue);
-
 }
 
-.child{
-    color: red;
+.title {
+    color: var(--dark-blue);
+    font-weight: 900;
+    font-size: 32px;
 }
