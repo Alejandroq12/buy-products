@@ -5,6 +5,12 @@
     --desaturated-blue: hsl(224, 23%, 55%);
     --dark-blue: hsl(223, 47%, 23%);
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
  body {
     background-image: url(./images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
