@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
 :root {
     --pale-blue: hsl(225, 100%, 84%);
     --bright-blue: hsl(245, 75%, 52%);
@@ -17,12 +19,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--pale-blue);
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
  }
 
 .card {
     width: 450px;
     background-color: white;
     color: var(--desaturated-blue);
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .title {
