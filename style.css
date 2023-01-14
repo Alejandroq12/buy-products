@@ -69,3 +69,19 @@
 .proceed-button:hover {
     opacity: 0.8;
 }
+
+.cancel-button {
+    background-color: white;
+    color: var(--desaturated-blue);
+    border: none;
+    margin-top: 22px;
+    width: 100%;
+    font-weight: 700;
+    font-size: 0.9rem;
+    border-radius: 19px;
+    cursor: pointer;
+}
+
+.cancel-button:hover {
+    color: black;
+}
