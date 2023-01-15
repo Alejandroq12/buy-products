@@ -53,6 +53,16 @@
     line-height: 25px;
 }
 
+.plan-container {
+    font-size: 16px;
+    background-color: var(--very-pale-blue);
+    padding: 25px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 button {
     width: 100%;
     border: none;
