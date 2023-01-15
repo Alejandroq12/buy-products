@@ -84,6 +84,11 @@
     color: var(--dark-blue);
 }
 
+.plan-description {
+    line-height: 20px;
+    margin-right: 75px;
+}
+
 button {
     width: 100%;
     border: none;
