@@ -146,7 +146,7 @@ button {
   .order-description {
     font-size: 14px;
   }
-  
+
   .plan-container {
     font-size: 14px;
     flex-direction: column;
@@ -167,5 +167,5 @@ button {
 
   button {
     font-size: 1rem;
-    }
   }
+}
