@@ -1,0 +1,23 @@
+{
+  "name": "order-summary-component-html-css",
+  "version": "1.0.0",
+  "description": "This order summary card component created with CSS and HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandroq12/Order-Summary-Component-HTML-CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandroq12/Order-Summary-Component-HTML-CSS/issues"
+  },
+  "homepage": "https://github.com/Alejandroq12/Order-Summary-Component-HTML-CSS#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
