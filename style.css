@@ -11,17 +11,17 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; 
+    box-sizing: border-box;
 }
 
- body {
+body {
     background-image: url(./images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--pale-blue);
     font-family: "Red Hat Display", sans-serif;
     font-size: 16px;
- }
+}
 
 .card {
     width: 450px;
@@ -51,7 +51,7 @@
     font-size: 18px;
 }
 
-.container > * {
+.container>* {
     margin: 13px 0;
 }
 
