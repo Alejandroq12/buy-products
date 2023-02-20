@@ -124,28 +124,28 @@ button {
     width: 90%;
   }
 }
-  
+
 @media (max-width: 480px) {
   body {
     background-image: url(./images/pattern-background-mobile.svg);
   }
-  
+
   .hero-image {
     height: 200px;
     object-fit: cover;
   }
-  
+
   .container {
     padding: 10px;
   }
-  
+
   .title {
     font-size: 28px;
-}
-  
+  }
+
   .order-description {
     font-size: 14px;
-}
+  }
   
   .plan-container {
     font-size: 14px;
@@ -154,19 +154,18 @@ button {
     padding: 20px;
     margin-top: 25px;
     margin-bottom: 25px;
-}
-  
+  }
+
   .plan-container img {
     margin-bottom: 20px;
-}
-  
+  }
+
   .plan-container .plan-description {
     margin-right: 0;
     text-align: center;
-}
-  
+  }
+
   button {
     font-size: 1rem;
     }
   }
-  
