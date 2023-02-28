@@ -90,7 +90,7 @@ This order summary card component created with CSS and HTML.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://alejandroq12.github.io/Order-Summary-Component-HTML-CSS/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
