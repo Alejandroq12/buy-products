@@ -73,14 +73,16 @@ The **Product Purchase Form** is a component created with HTML and CSS that impl
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+To work with this project, you need:
 
+1. A modern web browser to view the website (e.g., Google Chrome, Firefox, Safari, or Microsoft Edge).
+
+2. A code editor for editing the code, such as Visual Studio Code, Atom, or Sublime Text.
+3. 
 <!--
 Example command:
 
