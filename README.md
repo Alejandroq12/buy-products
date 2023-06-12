@@ -64,9 +64,8 @@ The **Product Purchase Form** is a component created with HTML and CSS that impl
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](https://alejandroq12.github.io/Order-Summary-Component-HTML-CSS/)
+- [Live Demo Link](https://alejandroq12.github.io/buy-products/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
