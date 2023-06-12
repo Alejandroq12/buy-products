@@ -82,7 +82,7 @@ To work with this project, you need:
 1. A modern web browser to view the website (e.g., Google Chrome, Firefox, Safari, or Microsoft Edge).
 
 2. A code editor for editing the code, such as Visual Studio Code, Atom, or Sublime Text.
-3. 
+
 <!--
 Example command:
 
@@ -93,41 +93,33 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+1. Clone it using your terminal:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
 ```
---->
+git clone https://github.com/Alejandroq12/buy-products.git
+```
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+For this porject you just need a web browser.
 
 ### Usage
 
-To run the project, execute the following command:
+To use this project locally on your computer, follow these steps:
 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
+1. Clone the repository or download the project files.
+2. Navigate to the project directory where the index.html file is located.
+3. Open the `index.html` file with a web browser.
+- Optional: You can also use the Live Server extension for Visual Studio Code to view the website with live reloading.
+
+-- Install the Live Server extension in Visual Studio Code.
+
+-- Open the project folder in Visual Studio Code.
+
+-- Right-click on the index.html file and select "Open with Live Server".
+
+The website should now be displayed in your browser, and you can interact with the application as intended.
 
 ### Run tests
 
