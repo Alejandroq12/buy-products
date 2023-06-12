@@ -1,14 +1,10 @@
-# Order-Summary-Component-HTML-CSS
-
-This order summary card component created with CSS and HTML.
-
-<a name="readme-top"></a>
+<a name="readme-top">Buy Products Form</a>
 
 <div align="center">
   <img src="logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Buy Products Form</b></h3>
 
 </div>
 
@@ -16,9 +12,8 @@ This order summary card component created with CSS and HTML.
 
 # 📗 Table of Contents
 
-- [Order-Summary-Component-HTML-CSS](#order-summary-component-html-css)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Order Summary Component\] ](#-order-summary-component-)
+- [📖 Buy Products Form ](#-buy-products-form-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -40,7 +35,7 @@ This order summary card component created with CSS and HTML.
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Order Summary Component] <a name="about-project"></a>
+# 📖 Buy Products Form <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
