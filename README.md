@@ -1,7 +1,7 @@
 <a name="readme-top">Product Purchase Form</a>
 
 <div align="center">
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
+  <img src="logo.png" alt="logo" width="640"  height="auto" />
   <br/>
 
   <h3><b>Product Purchase Form</b></h3>
