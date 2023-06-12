@@ -199,15 +199,9 @@ I would like to thank Madison Kanna for guiding me in the creation of this proje
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **Will you use JavaScript to add interactivity?**
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - Of course, I will use it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
