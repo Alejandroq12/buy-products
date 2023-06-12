@@ -1,10 +1,10 @@
-<a name="readme-top">Buy Products Form</a>
+<a name="readme-top">Product Purchase Form</a>
 
 <div align="center">
   <img src="logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Buy Products Form</b></h3>
+  <h3><b>Product Purchase Form</b></h3>
 
 </div>
 
@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Buy Products Form ](#-buy-products-form-)
+- [📖 Product Purchase Form](#-product-purchase-form)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,11 +35,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Buy Products Form <a name="about-project"></a>
+# 📖 Product Purchase Form<a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+The **Product Purchase Form** is a component created with HTML and CSS that implements the final step a customer takes to buy a product or service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
